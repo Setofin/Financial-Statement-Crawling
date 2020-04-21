@@ -17,4 +17,6 @@ Installations:
 
 The download data will be stored as csv file, in each Folder of their names. Bank for banking data, securities for securities company, insurance for insurance company and others for the rest.
 
+This code will crawl the data of the stock listed in the Code.csv file, which include all stocks listed on HOSE. You can modify the stocks to be crawled in that file.
+
 
