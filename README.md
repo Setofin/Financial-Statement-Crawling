@@ -13,6 +13,7 @@ Installations:
 - Install the required libraries
 - Download the webdriver, preferrably Chrome, at https://chromedriver.chromium.org/downloads
 - Rename the driver_path variable in each files with the location of the webdriver you downloaded
+- Create 4 folders for saving data, Balance, Cashflow, Income and Ratios. Inside of each folder you need to create additional 4 folders, which are Bank, Securities, Insurance and Others
 - Run the code and wait for the crawling process
 
 The download data will be stored as csv file, in each Folder of their names. Bank for banking data, securities for securities company, insurance for insurance company and others for the rest.
