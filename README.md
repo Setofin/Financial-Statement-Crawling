@@ -20,4 +20,7 @@ The download data will be stored as csv file, in each Folder of their names. Ban
 
 This code will crawl the data of the stock listed in the Code.csv file, including all stocks listed on HOSE. You can modify the stocks to be crawled in that file.
 
+Well, just to be quick, here's the link: https://drive.google.com/file/d/15PC8f3CewR_ppIaCGd10veQADoJny3Hq/view?usp=sharing
+
+
 
